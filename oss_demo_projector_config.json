@@ -1,14 +1,13 @@
 {
-    "embeddings": [
-      {
-        "tensorName": "RIT",
-        "tensorShape": [3979, 2048],
-        "tensorPath": "oss_data/tensor.bytes",
-        "sprite": {
-          "imagePath": "oss_data/sprites.png",
-          "singleImageDim": [100, 100]
-        }
+  "embeddings": [
+    {
+      "tensorName": "Railway Fasteners",
+      "tensorShape": [6000, 2048],
+      "tensorPath": "https://raw.githubusercontent.com/McCartney2003/LBP/blob/master/tensor.bytes",
+      "sprite": {
+        "imagePath": "https://raw.githubusercontent.com/McCartney2003/LBP/blob/master/sprites.png",
+        "singleImageDim": [100, 100]
       }
-    ],
-    "modelCheckpointPath": "Demo datasets"
+    }
+  ]
 }
