@@ -6,9 +6,9 @@
                 6000,
                 2048
             ],
-            "tensorPath": "./oss_data//content/drive/MyDrive/oss_data/tensor.bytes",
+            "tensorPath": "https://raw.githubusercontent.com/McCartney2003/LBP/master/tensor%20(1).bytes",
             "sprite": {
-                "imagePath": "./oss_data//content/drive/MyDrive/oss_data/sprites.png",
+                "imagePath": "https://raw.githubusercontent.com/McCartney2003/LBP/master/sprites.png",
                 "singleImageDim": [
                     100,
                     100
